@@ -1,7 +1,7 @@
-url: $RU_API_URL
+url: $RU_API_URL_2
 status: up
 code: 200
-responseTime: 29344
-lastUpdated: 2022-03-01T22:00:37.564Z
+responseTime: 291
+lastUpdated: 2022-03-01T22:00:40.229Z
 startTime: Tue Mar 01 2022 11:10:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
