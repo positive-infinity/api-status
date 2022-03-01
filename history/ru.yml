@@ -1,7 +1,7 @@
-url: https://overpass.openstreetmap.ru/api/interpreter?data=(node ["amenity"="toilets"]["access"!~"no|private|customers"] (around:20000,52.0687749,8.5975739); way ["amenity"="toilets"]["access"!~"no|private|customers"] (around:20000,52.0687749,8.5975739); ); (._;>;); out tags center qt;
+url: $RU_API_URL
 status: down
-code: 400
-responseTime: 1364
-lastUpdated: 2022-03-01T21:07:36.052Z
+code: 0
+responseTime: 0
+lastUpdated: 2022-03-01T21:15:35.664Z
 startTime: Tue Mar 01 2022 11:10:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
