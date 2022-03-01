@@ -24,7 +24,7 @@ sites:
     maxResponseTime: 20000
     __dangerous__body_down: "<html"
   - name: ru
-    url: $RU_API_URL
+    url: https://overpass.openstreetmap.ru/api/status
     maxResponseTime: 60000
     __dangerous__body_down: "<html"
   - name: tk
