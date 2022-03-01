@@ -40,19 +40,19 @@
     "url": "$KU_API_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ku",
-    "status": "down",
-    "uptime": "85.08%",
+    "status": "up",
+    "uptime": "84.36%",
     "uptimeDay": "84.08%",
-    "uptimeWeek": "85.08%",
-    "uptimeMonth": "85.08%",
-    "uptimeYear": "85.08%",
-    "time": 9761,
-    "timeDay": 10357,
-    "timeWeek": 9761,
-    "timeMonth": 9761,
-    "timeYear": 9761,
+    "uptimeWeek": "84.36%",
+    "uptimeMonth": "84.36%",
+    "uptimeYear": "84.36%",
+    "time": 9865,
+    "timeDay": 10683,
+    "timeWeek": 9865,
+    "timeMonth": 9865,
+    "timeYear": 9865,
     "dailyMinutesDown": {
-      "2022-03-01": 56,
+      "2022-03-01": 107,
       "2022-02-28": 416,
       "2022-02-27": 64,
       "2022-02-26": 277,
@@ -76,7 +76,7 @@
     "timeMonth": 1516,
     "timeYear": 1516,
     "dailyMinutesDown": {
-      "2022-03-01": 239
+      "2022-03-01": 289
     }
   },
   {
