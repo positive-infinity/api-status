@@ -1,7 +1,7 @@
-url: https://overpass.openstreetmap.ru/api/status
-status: up
-code: 200
-responseTime: 1363
-lastUpdated: 2022-03-01T21:01:49.143Z
+url: https://overpass.openstreetmap.ru/api/interpreter?data=(node ["amenity"="toilets"]["access"!~"no|private|customers"] (around:20000,52.0687749,8.5975739); way ["amenity"="toilets"]["access"!~"no|private|customers"] (around:20000,52.0687749,8.5975739); ); (._;>;); out tags center qt;
+status: down
+code: 400
+responseTime: 1364
+lastUpdated: 2022-03-01T21:07:36.052Z
 startTime: Tue Mar 01 2022 11:10:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
