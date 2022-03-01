@@ -27,6 +27,10 @@ sites:
     url: $RU_API_URL
     maxResponseTime: 60000
     __dangerous__body_down: "<html"
+  - name: ru
+    url: $RU_API_URL_2
+    maxResponseTime: 60000
+    __dangerous__body_down: "<html"
   - name: tk
     url: $TK_API_URL
     maxResponseTime: 5000
