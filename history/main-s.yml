@@ -1,7 +1,7 @@
 url: $MAIN_API_URL_SIMPLIFIED
-status: down
-code: 400
-responseTime: 513
-lastUpdated: 2022-03-03T13:59:36.875Z
+status: up
+code: 200
+responseTime: 2516
+lastUpdated: 2022-03-03T14:08:45.903Z
 startTime: Thu Mar 03 2022 11:32:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
