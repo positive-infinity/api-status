@@ -1,7 +1,7 @@
 url: $VK_API_URL_SIMPLIFIED
-status: down
-code: 400
-responseTime: 164
-lastUpdated: 2022-03-03T15:08:48.385Z
+status: up
+code: 200
+responseTime: 1235
+lastUpdated: 2022-03-03T16:00:08.780Z
 startTime: Thu Mar 03 2022 11:32:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
