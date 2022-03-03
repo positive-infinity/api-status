@@ -15,7 +15,7 @@ sites:
     url: $MAIN_API_URL
     maxResponseTime: 20000
     __dangerous__body_down: "<html"
-  - name: main_s
+  - name: main-s
     url: $MAIN_API_URL_SIMPLIFIED
     maxResponseTime: 20000
     __dangerous__body_down: "<html"
@@ -23,7 +23,7 @@ sites:
     url: $VK_API_URL
     maxResponseTime: 10000
     __dangerous__body_down: "<html"
-  - name: vk_s
+  - name: vk-s
     url: $VK_API_URL_SIMPLIFIED
     maxResponseTime: 10000
     __dangerous__body_down: "<html"
