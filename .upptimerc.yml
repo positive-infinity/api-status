@@ -16,18 +16,18 @@ sites:
     url: $MAIN_API_URL
     maxResponseTime: 20000
     __dangerous__body_down: "<html"
-  - name: main-s
-    url: $MAIN_API_URL_SIMPLIFIED
-    maxResponseTime: 20000
-    __dangerous__body_down: "<html"
+#  - name: main-s
+#    url: $MAIN_API_URL_SIMPLIFIED
+#    maxResponseTime: 20000
+#    __dangerous__body_down: "<html"
   - name: vk
     url: $VK_API_URL
     maxResponseTime: 10000
     __dangerous__body_down: "<html"
-  - name: vk-s
-    url: $VK_API_URL_SIMPLIFIED
-    maxResponseTime: 10000
-    __dangerous__body_down: "<html"
+#  - name: vk-s
+#    url: $VK_API_URL_SIMPLIFIED
+#    maxResponseTime: 10000
+#    __dangerous__body_down: "<html"
 # ku fails occasionally (http code 0, no clue why), so disable for now
 #  - name: ku
 #    url: $KU_API_URL
