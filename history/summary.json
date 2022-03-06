@@ -76,19 +76,19 @@
     "url": "$KU_API_STATUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ku-s",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 541,
-    "timeDay": 482,
-    "timeWeek": 541,
-    "timeMonth": 541,
-    "timeYear": 541,
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 565,
+    "timeDay": 522,
+    "timeWeek": 565,
+    "timeMonth": 565,
+    "timeYear": 565,
     "dailyMinutesDown": {
-      "2022-03-06": 0
+      "2022-03-06": 9
     }
   },
   {
