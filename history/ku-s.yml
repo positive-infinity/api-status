@@ -1,7 +1,7 @@
 url: $KU_API_STATUS_URL
-status: up
+status: degraded
 code: 200
-responseTime: 207
-lastUpdated: 2022-03-10T09:01:54.164Z
+responseTime: 12085
+lastUpdated: 2022-03-10T10:00:04.608Z
 startTime: Fri Mar 04 2022 18:09:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
