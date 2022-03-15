@@ -6,8 +6,8 @@
     "slug": "main",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.01%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.62%",
     "time": 12546,
@@ -16,7 +16,6 @@
     "timeMonth": 12546,
     "timeYear": 12546,
     "dailyMinutesDown": {
-      "2022-03-15": 1,
       "2022-03-11": 50,
       "2022-03-09": 50
     }
@@ -80,15 +79,15 @@
     "url": "$KU_API_STATUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ku-s",
-    "status": "up",
-    "uptime": "93.57%",
-    "uptimeDay": "95.45%",
-    "uptimeWeek": "91.88%",
-    "uptimeMonth": "93.57%",
-    "uptimeYear": "93.57%",
+    "status": "down",
+    "uptime": "93.59%",
+    "uptimeDay": "95.44%",
+    "uptimeWeek": "91.87%",
+    "uptimeMonth": "93.59%",
+    "uptimeYear": "93.59%",
     "time": 742,
     "timeDay": 846,
-    "timeWeek": 816,
+    "timeWeek": 822,
     "timeMonth": 742,
     "timeYear": 742,
     "dailyMinutesDown": {
@@ -116,7 +115,7 @@
     "uptimeYear": "100.00%",
     "time": 1406,
     "timeDay": 1282,
-    "timeWeek": 1446,
+    "timeWeek": 1448,
     "timeMonth": 1406,
     "timeYear": 1406,
     "dailyMinutesDown": {}
@@ -134,7 +133,7 @@
     "uptimeYear": "100.00%",
     "time": 779,
     "timeDay": 783,
-    "timeWeek": 763,
+    "timeWeek": 762,
     "timeMonth": 779,
     "timeYear": 779,
     "dailyMinutesDown": {}
@@ -152,7 +151,7 @@
     "uptimeYear": "100.00%",
     "time": 392,
     "timeDay": 350,
-    "timeWeek": 380,
+    "timeWeek": 382,
     "timeMonth": 392,
     "timeYear": 392,
     "dailyMinutesDown": {}
