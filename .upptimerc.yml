@@ -69,7 +69,7 @@ sites:
     url: $KU_API_STATUS_URL
     maxResponseTime: 5000
     __dangerous__body_down: "<html"
-     expectedStatusCodes:
+    expectedStatusCodes:
       - 0
       - 200
 # ru fails constantly (http code 400, no clue why), so disable for now
