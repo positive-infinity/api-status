@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pi-main",
     "status": "up",
-    "uptime": "8.22%",
-    "uptimeDay": "8.22%",
-    "uptimeWeek": "8.22%",
-    "uptimeMonth": "8.22%",
-    "uptimeYear": "8.22%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-03-30": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "pi-alt1",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pi-alt1",
     "status": "up",
-    "uptime": "7.81%",
-    "uptimeDay": "7.81%",
-    "uptimeWeek": "7.81%",
-    "uptimeMonth": "7.81%",
-    "uptimeYear": "7.81%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-03-30": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "pi-alt2",
@@ -45,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pi-alt2",
     "status": "up",
-    "uptime": "7.37%",
-    "uptimeDay": "7.37%",
-    "uptimeWeek": "7.37%",
-    "uptimeMonth": "7.37%",
-    "uptimeYear": "7.37%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-03-30": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "main",
