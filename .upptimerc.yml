@@ -11,6 +11,18 @@ sites:
 #      - 201
 #      - 404
 #    __dangerous__body_down: "File not found"
+  - name: pi-main
+    url: $PI_MAIN_API_URL
+    maxResponseTime: 20000
+    __dangerous__body_down: "<html"
+  - name: pi-alt1
+    url: $PI_ALT1_API_URL
+    maxResponseTime: 20000
+    __dangerous__body_down: "<html"
+  - name: pi-alt2
+    url: $PI_ALT2_API_URL
+    maxResponseTime: 20000
+    __dangerous__body_down: "<html"
   - name: main
     url: $MAIN_API_URL
     maxResponseTime: 20000
