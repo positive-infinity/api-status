@@ -4,19 +4,19 @@
     "url": "$PI_MAIN_API_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pi-main",
-    "status": "down",
-    "uptime": "4.08%",
-    "uptimeDay": "4.08%",
-    "uptimeWeek": "4.08%",
-    "uptimeMonth": "4.08%",
-    "uptimeYear": "4.08%",
+    "status": "up",
+    "uptime": "8.22%",
+    "uptimeDay": "8.22%",
+    "uptimeWeek": "8.22%",
+    "uptimeMonth": "8.22%",
+    "uptimeYear": "8.22%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-30": 1
+      "2022-03-30": 5
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$PI_ALT1_API_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pi-alt1",
-    "status": "down",
-    "uptime": "1.11%",
-    "uptimeDay": "1.11%",
-    "uptimeWeek": "1.11%",
-    "uptimeMonth": "1.11%",
-    "uptimeYear": "1.11%",
+    "status": "up",
+    "uptime": "7.81%",
+    "uptimeDay": "7.81%",
+    "uptimeWeek": "7.81%",
+    "uptimeMonth": "7.81%",
+    "uptimeYear": "7.81%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-30": 1
+      "2022-03-30": 5
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$PI_ALT2_API_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pi-alt2",
-    "status": "down",
-    "uptime": "2.27%",
-    "uptimeDay": "2.27%",
-    "uptimeWeek": "2.27%",
-    "uptimeMonth": "2.27%",
-    "uptimeYear": "2.27%",
+    "status": "up",
+    "uptime": "7.37%",
+    "uptimeDay": "7.37%",
+    "uptimeWeek": "7.37%",
+    "uptimeMonth": "7.37%",
+    "uptimeYear": "7.37%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-30": 1
+      "2022-03-30": 5
     }
   },
   {
@@ -70,11 +70,11 @@
     "uptimeWeek": "99.51%",
     "uptimeMonth": "97.38%",
     "uptimeYear": "97.60%",
-    "time": 12890,
-    "timeDay": 12500,
-    "timeWeek": 11862,
-    "timeMonth": 12902,
-    "timeYear": 12890,
+    "time": 12875,
+    "timeDay": 12064,
+    "timeWeek": 11801,
+    "timeMonth": 12887,
+    "timeYear": 12875,
     "dailyMinutesDown": {
       "2022-03-28": 50,
       "2022-03-18": 313,
@@ -95,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
-    "time": 852,
-    "timeDay": 589,
-    "timeWeek": 573,
-    "timeMonth": 852,
-    "timeYear": 852,
+    "time": 851,
+    "timeDay": 581,
+    "timeWeek": 572,
+    "timeMonth": 851,
+    "timeYear": 851,
     "dailyMinutesDown": {
       "2022-03-16": 56
     }
@@ -115,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4704,
-    "timeDay": 4641,
+    "time": 4703,
+    "timeDay": 4643,
     "timeWeek": 4655,
     "timeMonth": 4702,
-    "timeYear": 4704,
+    "timeYear": 4703,
     "dailyMinutesDown": {}
   },
   {
@@ -133,11 +133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 322,
-    "timeDay": 222,
-    "timeWeek": 221,
-    "timeMonth": 322,
-    "timeYear": 322,
+    "time": 321,
+    "timeDay": 217,
+    "timeWeek": 220,
+    "timeMonth": 321,
+    "timeYear": 321,
     "dailyMinutesDown": {}
   },
   {
@@ -193,7 +193,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1423,
-    "timeDay": 1518,
+    "timeDay": 1506,
     "timeWeek": 1390,
     "timeMonth": 1423,
     "timeYear": 1423,
@@ -211,7 +211,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 784,
-    "timeDay": 804,
+    "timeDay": 802,
     "timeWeek": 795,
     "timeMonth": 782,
     "timeYear": 784,
@@ -230,7 +230,7 @@
     "uptimeYear": "100.00%",
     "time": 393,
     "timeDay": 394,
-    "timeWeek": 440,
+    "timeWeek": 439,
     "timeMonth": 391,
     "timeYear": 393,
     "dailyMinutesDown": {}
