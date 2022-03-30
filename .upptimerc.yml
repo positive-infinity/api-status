@@ -15,30 +15,51 @@ sites:
     url: $PI_MAIN_API_URL
     maxResponseTime: 20000
     __dangerous__body_down: "<html"
+    expectedStatusCodes:
+      - 0
+      - 200
   - name: pi-alt1
     url: $PI_ALT1_API_URL
     maxResponseTime: 20000
     __dangerous__body_down: "<html"
+    expectedStatusCodes:
+      - 0
+      - 200
   - name: pi-alt2
     url: $PI_ALT2_API_URL
     maxResponseTime: 20000
     __dangerous__body_down: "<html"
+    expectedStatusCodes:
+      - 0
+      - 200
   - name: main
     url: $MAIN_API_URL
     maxResponseTime: 20000
     __dangerous__body_down: "<html"
+    expectedStatusCodes:
+      - 0
+      - 200
   - name: main-s
     url: $MAIN_API_STATUS_URL
     maxResponseTime: 5000
     __dangerous__body_down: "<html"
+    expectedStatusCodes:
+      - 0
+      - 200
   - name: vk
     url: $VK_API_URL
     maxResponseTime: 10000
     __dangerous__body_down: "<html"
+    expectedStatusCodes:
+      - 0
+      - 200
   - name: vk-s
     url: $VK_API_STATUS_URL
     maxResponseTime: 5000
     __dangerous__body_down: "<html"
+    expectedStatusCodes:
+      - 0
+      - 200
 # ku fails occasionally (http code 0, no clue why), so disable for now
 #  - name: ku
 #    url: $KU_API_URL
@@ -48,6 +69,9 @@ sites:
     url: $KU_API_STATUS_URL
     maxResponseTime: 5000
     __dangerous__body_down: "<html"
+     expectedStatusCodes:
+      - 0
+      - 200
 # ru fails constantly (http code 400, no clue why), so disable for now
 #  - name: ru
 #    url: $RU_API_URL
@@ -57,14 +81,23 @@ sites:
     url: $RU_API_STATUS_URL
     maxResponseTime: 5000
     __dangerous__body_down: "<html"
+    expectedStatusCodes:
+      - 0
+      - 200
   - name: tk
     url: $TK_API_URL
     maxResponseTime: 5000
     __dangerous__body_down: "<html"
+    expectedStatusCodes:
+      - 0
+      - 200
   - name: ma
     url: $MA_API_URL
     maxResponseTime: 15000
     __dangerous__body_down: "<html"
+    expectedStatusCodes:
+      - 0
+      - 200
 
 workflowSchedule:
   graphs: "0 0 * * *"
