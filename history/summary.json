@@ -67,7 +67,7 @@
     "time": 12792,
     "timeDay": 10721,
     "timeWeek": 11797,
-    "timeMonth": 12776,
+    "timeMonth": 12749,
     "timeYear": 12792,
     "dailyMinutesDown": {
       "2022-03-28": 50,
@@ -121,19 +121,19 @@
     "url": "$VK_API_STATUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vk-s",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 274,
-    "timeWeek": 231,
-    "timeMonth": 315,
-    "timeYear": 315,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 314,
+    "timeDay": 263,
+    "timeWeek": 230,
+    "timeMonth": 314,
+    "timeYear": 314,
     "dailyMinutesDown": {
-      "2022-04-02": 0
+      "2022-04-02": 9
     }
   },
   {
