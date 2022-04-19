@@ -22,19 +22,19 @@
     "url": "$PI_ALT1_API_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pi-alt1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2733,
-    "timeDay": 6173,
-    "timeWeek": 2776,
-    "timeMonth": 2733,
-    "timeYear": 2733,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 2732,
+    "timeDay": 5813,
+    "timeWeek": 2773,
+    "timeMonth": 2732,
+    "timeYear": 2732,
     "dailyMinutesDown": {
-      "2022-04-19": 0
+      "2022-04-19": 50
     }
   },
   {
