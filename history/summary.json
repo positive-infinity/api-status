@@ -126,19 +126,19 @@
     "url": "$VK_API_STATUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vk-s",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 1808,
-    "timeWeek": 451,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 299,
+    "timeDay": 1628,
+    "timeWeek": 447,
     "timeMonth": 273,
-    "timeYear": 300,
+    "timeYear": 299,
     "dailyMinutesDown": {
-      "2022-04-28": 0
+      "2022-04-28": 6
     }
   },
   {
