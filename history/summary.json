@@ -115,19 +115,19 @@
     "url": "$VK_API_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vk",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.65%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
     "time": 4232,
-    "timeDay": 3944,
+    "timeDay": 3969,
     "timeWeek": 4177,
     "timeMonth": 4137,
     "timeYear": 4232,
     "dailyMinutesDown": {
-      "2022-08-02": 1
+      "2022-08-02": 48
     }
   },
   {
@@ -135,19 +135,19 @@
     "url": "$VK_API_STATUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vk-s",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.66%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
     "time": 234,
-    "timeDay": 199,
+    "timeDay": 196,
     "timeWeek": 188,
     "timeMonth": 188,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2022-08-02": 1
+      "2022-08-02": 48
     }
   },
   {
