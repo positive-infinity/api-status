@@ -1,7 +1,7 @@
 url: $MAIN_API_STATUS_URL
 status: up
 code: 200
-responseTime: 411
-lastUpdated: 2022-08-13T21:01:34.687Z
+responseTime: 154
+lastUpdated: 2022-08-14T00:05:14.781Z
 startTime: Fri Mar 04 2022 18:09:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
