@@ -6,7 +6,7 @@
     "slug": "pi-main",
     "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "0.13%",
+    "uptimeDay": "0.74%",
     "uptimeWeek": "83.93%",
     "uptimeMonth": "96.30%",
     "uptimeYear": "99.24%",
@@ -49,9 +49,9 @@
     "slug": "pi-alt2",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1554,
     "timeDay": 1664,
@@ -59,7 +59,7 @@
     "timeMonth": 1482,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2022-08-25": 1
+      "2022-08-25": 10
     }
   },
   {
@@ -128,8 +128,8 @@
     "status": "down",
     "uptime": "99.36%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.91%",
-    "uptimeMonth": "96.19%",
+    "uptimeWeek": "83.82%",
+    "uptimeMonth": "96.17%",
     "uptimeYear": "99.36%",
     "time": 4216,
     "timeDay": 579,
@@ -137,7 +137,7 @@
     "timeMonth": 4119,
     "timeYear": 4216,
     "dailyMinutesDown": {
-      "2022-08-25": 662,
+      "2022-08-25": 670,
       "2022-08-24": 960,
       "2022-08-02": 48
     }
@@ -150,8 +150,8 @@
     "status": "down",
     "uptime": "99.33%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.91%",
-    "uptimeMonth": "96.19%",
+    "uptimeWeek": "83.82%",
+    "uptimeMonth": "96.17%",
     "uptimeYear": "99.33%",
     "time": 231,
     "timeDay": 445,
@@ -159,7 +159,7 @@
     "timeMonth": 205,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2022-08-25": 662,
+      "2022-08-25": 671,
       "2022-08-24": 960,
       "2022-08-02": 48
     }
@@ -169,18 +169,19 @@
     "url": "$KU_API_STATUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ku-s",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.02%",
-    "time": 322,
-    "timeDay": 158,
-    "timeWeek": 157,
-    "timeMonth": 156,
-    "timeYear": 322,
+    "time": 331,
+    "timeDay": 3339,
+    "timeWeek": 446,
+    "timeMonth": 214,
+    "timeYear": 331,
     "dailyMinutesDown": {
+      "2022-08-25": 1,
       "2022-03-28": 53,
       "2022-03-27": 163,
       "2022-03-26": 51,
