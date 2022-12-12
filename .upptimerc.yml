@@ -33,8 +33,7 @@ sites:
       - 0
       - 200
   - name: main
-    url: $MAIN_API_URL
-    maxResponseTime: 20000
+    url: $MAIN_API_URL    
     __dangerous__body_down: "<html"
     expectedStatusCodes:
       - 0
@@ -48,7 +47,6 @@ sites:
       - 200
   - name: vk
     url: $VK_API_URL
-    maxResponseTime: 20000
     __dangerous__body_down: "<html"
     expectedStatusCodes:
       - 0
@@ -61,10 +59,12 @@ sites:
       - 0
       - 200
 # ku fails occasionally (http code 0, no clue why), so disable for now
-#  - name: ku
-#    url: $KU_API_URL
-#    maxResponseTime: 20000
-#    __dangerous__body_down: "<html"
+  - name: ku
+    url: $KU_API_URL
+    __dangerous__body_down: "<html"
+    expectedStatusCodes:
+      - 0
+      - 200
   - name: ku-s
     url: $KU_API_STATUS_URL
     maxResponseTime: 5000
@@ -73,10 +73,12 @@ sites:
       - 0
       - 200
 # ru fails constantly (http code 400, no clue why), so disable for now
-#  - name: ru
-#    url: $RU_API_URL
-#    maxResponseTime: 60000
-#    __dangerous__body_down: "<html"
+  - name: ru
+    url: $RU_API_URL
+    __dangerous__body_down: "<html"
+    expectedStatusCodes:
+      - 0
+      - 200
   - name: ru-s
     url: $RU_API_STATUS_URL
     maxResponseTime: 5000
