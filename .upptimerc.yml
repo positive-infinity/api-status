@@ -73,12 +73,12 @@ sites:
       - 0
       - 200
 # ru fails constantly (http code 400, no clue why), so disable for now
-  - name: ru
-    url: $RU_API_URL
-    __dangerous__body_down: "<html"
-    expectedStatusCodes:
-      - 0
-      - 200
+#  - name: ru
+#    url: $RU_API_URL
+#    __dangerous__body_down: "<html"
+#    expectedStatusCodes:
+#      - 0
+#      - 200
   - name: ru-s
     url: $RU_API_STATUS_URL
     maxResponseTime: 5000
