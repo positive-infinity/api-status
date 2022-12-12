@@ -59,12 +59,12 @@ sites:
       - 0
       - 200
 # ku fails occasionally (http code 0, no clue why), so disable for now
-  - name: ku
-    url: $KU_API_URL
-    __dangerous__body_down: "<html"
-    expectedStatusCodes:
-      - 0
-      - 200
+#  - name: ku
+#    url: $KU_API_URL
+#    __dangerous__body_down: "<html"
+#    expectedStatusCodes:
+#      - 0
+#      - 200
   - name: ku-s
     url: $KU_API_STATUS_URL
     maxResponseTime: 5000
