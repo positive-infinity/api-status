@@ -48,7 +48,7 @@ sites:
       - 200
   - name: vk
     url: $VK_API_URL
-    maxResponseTime: 10000
+    maxResponseTime: 20000
     __dangerous__body_down: "<html"
     expectedStatusCodes:
       - 0
