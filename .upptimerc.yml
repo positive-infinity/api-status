@@ -18,6 +18,8 @@ sites:
     expectedStatusCodes:
       - 0
       - 200
+    assignees:
+      - positive-infinity
   - name: pi-alt1
     url: $PI_ALT1_API_URL
     maxResponseTime: 20000
@@ -25,6 +27,8 @@ sites:
     expectedStatusCodes:
       - 0
       - 200
+    assignees:
+      - positive-infinity
   - name: pi-alt2
     url: $PI_ALT2_API_URL
     maxResponseTime: 20000
@@ -116,9 +120,6 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "*/57 * * * *"
-  
-assignees: # Users to assign downtime issues (optional)
-  - positive-infinity
   
 status-website:
   theme: night
