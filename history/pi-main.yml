@@ -1,7 +1,7 @@
 url: $PI_MAIN_API_URL
-status: down
-code: 504
-responseTime: 2569
-lastUpdated: 2023-11-03T09:08:17.869Z
+status: up
+code: 200
+responseTime: 1118
+lastUpdated: 2023-11-03T11:59:20.885Z
 startTime: 2022-03-30T17:22:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
