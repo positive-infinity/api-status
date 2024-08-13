@@ -149,7 +149,7 @@
     "time": 371,
     "timeDay": 865,
     "timeWeek": 876,
-    "timeMonth": 814,
+    "timeMonth": 774,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2024-07-18": 50,
@@ -232,19 +232,19 @@
     "url": "$WIKI_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.99%",
     "time": 346,
-    "timeDay": 627,
-    "timeWeek": 381,
+    "timeDay": 605,
+    "timeWeek": 382,
     "timeMonth": 365,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2024-08-13": 2
+      "2024-08-13": 50
     }
   }
 ]
