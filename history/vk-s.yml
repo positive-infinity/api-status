@@ -1,7 +1,7 @@
 url: $VK_API_STATUS_URL
-status: down
-code: 504
-responseTime: 450
-lastUpdated: 2024-10-07T12:02:40.805Z
+status: up
+code: 200
+responseTime: 4362
+lastUpdated: 2024-10-07T12:12:28.663Z
 startTime: 2022-03-04T18:09:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
