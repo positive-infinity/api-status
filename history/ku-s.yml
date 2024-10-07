@@ -1,7 +1,7 @@
 url: $KU_API_STATUS_URL
-status: degraded
+status: up
 code: 200
-responseTime: 18989
-lastUpdated: 2024-10-07T09:10:29.230Z
+responseTime: 576
+lastUpdated: 2024-10-07T09:59:32.300Z
 startTime: 2022-03-04T18:09:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
