@@ -117,19 +117,19 @@
     "url": "$VK_API_STATUS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vk-s",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 1910,
-    "timeWeek": 434,
-    "timeMonth": 256,
-    "timeYear": 200,
+    "time": 200,
+    "timeDay": 2023,
+    "timeWeek": 478,
+    "timeMonth": 267,
+    "timeYear": 201,
     "dailyMinutesDown": {
-      "2024-12-02": 1
+      "2024-12-02": 10
     }
   },
   {
