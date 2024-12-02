@@ -1,7 +1,7 @@
 url: $VK_API_STATUS_URL
-status: up
+status: degraded
 code: 200
-responseTime: 2927
-lastUpdated: 2024-12-02T12:13:59.895Z
+responseTime: 5447
+lastUpdated: 2024-12-02T13:07:42.532Z
 startTime: 2022-03-04T18:09:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
