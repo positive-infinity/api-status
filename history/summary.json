@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1487,
-    "timeDay": 1447,
-    "timeWeek": 1734,
-    "timeMonth": 1539,
-    "timeYear": 1491,
+    "timeDay": 1761,
+    "timeWeek": 1692,
+    "timeMonth": 1547,
+    "timeYear": 1492,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1660,
-    "timeDay": 1298,
-    "timeWeek": 1284,
-    "timeMonth": 1352,
-    "timeYear": 1656,
+    "time": 1659,
+    "timeDay": 1101,
+    "timeWeek": 1241,
+    "timeMonth": 1298,
+    "timeYear": 1655,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1824,
-    "timeDay": 1274,
-    "timeWeek": 1413,
-    "timeMonth": 1281,
-    "timeYear": 1849,
+    "time": 1823,
+    "timeDay": 1212,
+    "timeWeek": 1404,
+    "timeMonth": 1275,
+    "timeYear": 1850,
     "dailyMinutesDown": {
       "2024-07-16": 51,
       "2024-02-14": 51
@@ -67,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3218,
-    "timeDay": 3275,
-    "timeWeek": 3548,
-    "timeMonth": 3750,
-    "timeYear": 3264,
+    "time": 3222,
+    "timeDay": 4192,
+    "timeWeek": 3642,
+    "timeMonth": 3733,
+    "timeYear": 3269,
     "dailyMinutesDown": {}
   },
   {
@@ -86,9 +86,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 150,
-    "timeDay": 135,
-    "timeWeek": 177,
-    "timeMonth": 149,
+    "timeDay": 142,
+    "timeWeek": 164,
+    "timeMonth": 148,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2024-03-06": 50
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5402,
-    "timeDay": 3633,
-    "timeWeek": 3550,
-    "timeMonth": 3822,
-    "timeYear": 5413,
+    "time": 5398,
+    "timeDay": 3520,
+    "timeWeek": 3545,
+    "timeMonth": 3737,
+    "timeYear": 5409,
     "dailyMinutesDown": {}
   },
   {
@@ -121,12 +121,12 @@
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.65%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 212,
-    "timeDay": 224,
-    "timeWeek": 194,
-    "timeMonth": 403,
+    "timeDay": 166,
+    "timeWeek": 192,
+    "timeMonth": 188,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2024-12-02": 153
@@ -143,11 +143,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.78%",
-    "time": 759,
-    "timeDay": 1393,
-    "timeWeek": 1486,
-    "timeMonth": 1248,
-    "timeYear": 779,
+    "time": 763,
+    "timeDay": 1416,
+    "timeWeek": 1471,
+    "timeMonth": 1263,
+    "timeYear": 783,
     "dailyMinutesDown": {
       "2024-12-03": 49,
       "2024-11-13": 50,
@@ -182,7 +182,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1314,
+    "timeYear": 1315,
     "dailyMinutesDown": {}
   },
   {
@@ -197,10 +197,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 715,
-    "timeDay": 649,
-    "timeWeek": 669,
-    "timeMonth": 632,
-    "timeYear": 714,
+    "timeDay": 612,
+    "timeWeek": 657,
+    "timeMonth": 631,
+    "timeYear": 713,
     "dailyMinutesDown": {
       "2024-07-04": 60
     }
@@ -217,9 +217,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 656,
-    "timeDay": 676,
-    "timeWeek": 590,
-    "timeMonth": 580,
+    "timeDay": 585,
+    "timeWeek": 581,
+    "timeMonth": 578,
     "timeYear": 663,
     "dailyMinutesDown": {
       "2024-04-24": 51,
@@ -238,10 +238,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 360,
-    "timeDay": 406,
-    "timeWeek": 380,
-    "timeMonth": 377,
-    "timeYear": 361,
+    "timeDay": 431,
+    "timeWeek": 392,
+    "timeMonth": 378,
+    "timeYear": 357,
     "dailyMinutesDown": {
       "2024-08-13": 50
     }
