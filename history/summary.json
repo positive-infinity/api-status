@@ -4,19 +4,19 @@
     "url": "$PI_MAIN_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pi-main",
-    "status": "degraded",
-    "uptime": "99.88%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1597,
-    "timeDay": 7007,
-    "timeWeek": 4563,
-    "timeMonth": 2530,
-    "timeYear": 1609,
+    "time": 1602,
+    "timeDay": 7947,
+    "timeWeek": 4780,
+    "timeMonth": 2589,
+    "timeYear": 1615,
     "dailyMinutesDown": {
-      "2025-02-25": 0
+      "2025-02-25": 9
     }
   },
   {
