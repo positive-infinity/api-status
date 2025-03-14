@@ -6,17 +6,16 @@
     "slug": "pi-main",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.98%",
     "time": 1700,
-    "timeDay": 4254,
-    "timeWeek": 4586,
-    "timeMonth": 3715,
+    "timeDay": 4209,
+    "timeWeek": 4573,
+    "timeMonth": 3712,
     "timeYear": 1717,
     "dailyMinutesDown": {
-      "2025-03-13": 9,
       "2025-03-12": 49,
       "2025-03-06": 50
     }
@@ -33,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1583,
-    "timeDay": 1056,
-    "timeWeek": 1196,
-    "timeMonth": 1250,
+    "timeDay": 1002,
+    "timeWeek": 1198,
+    "timeMonth": 1248,
     "timeYear": 1512,
     "dailyMinutesDown": {}
   },
@@ -51,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1911,
-    "timeDay": 1157,
-    "timeWeek": 1361,
-    "timeMonth": 2276,
+    "timeDay": 1169,
+    "timeWeek": 1359,
+    "timeMonth": 2275,
     "timeYear": 1875,
     "dailyMinutesDown": {
       "2024-07-16": 51
@@ -71,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 698,
-    "timeDay": 597,
-    "timeWeek": 625,
-    "timeMonth": 641,
+    "timeDay": 610,
+    "timeWeek": 627,
+    "timeMonth": 640,
     "timeYear": 693,
     "dailyMinutesDown": {
       "2025-01-21": 56,
@@ -92,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 672,
-    "timeDay": 505,
-    "timeWeek": 830,
-    "timeMonth": 662,
+    "timeDay": 626,
+    "timeWeek": 832,
+    "timeMonth": 663,
     "timeYear": 674,
     "dailyMinutesDown": {
       "2024-04-24": 51
@@ -112,9 +111,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 359,
-    "timeDay": 275,
+    "timeDay": 276,
     "timeWeek": 329,
-    "timeMonth": 343,
+    "timeMonth": 342,
     "timeYear": 361,
     "dailyMinutesDown": {
       "2024-08-13": 50
