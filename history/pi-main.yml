@@ -1,7 +1,7 @@
 url: $PI_MAIN_API_URL
-status: up
+status: degraded
 code: 200
-responseTime: 1174
-lastUpdated: 2025-03-20T18:02:16.881Z
+responseTime: 28668
+lastUpdated: 2025-03-20T19:00:28.195Z
 startTime: 2022-03-30T17:22:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
