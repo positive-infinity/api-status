@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1977,
-    "timeDay": 1881,
-    "timeWeek": 1747,
-    "timeMonth": 1780,
-    "timeYear": 2005,
+    "time": 1979,
+    "timeDay": 2382,
+    "timeWeek": 1887,
+    "timeMonth": 1808,
+    "timeYear": 2008,
     "dailyMinutesDown": {
       "2025-05-17": 150,
       "2025-03-27": 48,
@@ -34,9 +34,9 @@
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.96%",
     "time": 1534,
-    "timeDay": 1308,
-    "timeWeek": 1374,
-    "timeMonth": 1694,
+    "timeDay": 1279,
+    "timeWeek": 1396,
+    "timeMonth": 1697,
     "timeYear": 1519,
     "dailyMinutesDown": {
       "2025-06-30": 49,
@@ -54,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1756,
-    "timeDay": 1576,
-    "timeWeek": 1587,
-    "timeMonth": 1777,
-    "timeYear": 1710,
+    "time": 1755,
+    "timeDay": 2055,
+    "timeWeek": 1682,
+    "timeMonth": 1786,
+    "timeYear": 1708,
     "dailyMinutesDown": {
       "2024-07-16": 51
     }
@@ -75,10 +75,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 666,
-    "timeDay": 713,
-    "timeWeek": 653,
+    "timeDay": 676,
+    "timeWeek": 660,
     "timeMonth": 648,
-    "timeYear": 661,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2025-01-21": 56
     }
@@ -94,10 +94,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 695,
-    "timeDay": 690,
-    "timeWeek": 831,
-    "timeMonth": 720,
+    "time": 694,
+    "timeDay": 737,
+    "timeWeek": 792,
+    "timeMonth": 725,
     "timeYear": 686,
     "dailyMinutesDown": {}
   },
@@ -113,9 +113,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 360,
-    "timeDay": 337,
-    "timeWeek": 306,
-    "timeMonth": 321,
+    "timeDay": 242,
+    "timeWeek": 302,
+    "timeMonth": 315,
     "timeYear": 361,
     "dailyMinutesDown": {
       "2024-08-13": 50
