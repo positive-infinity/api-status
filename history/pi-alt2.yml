@@ -1,7 +1,7 @@
 url: $PI_ALT2_API_URL
-status: down
-code: 502
-responseTime: 1294
-lastUpdated: 2025-10-01T15:01:55.196Z
+status: up
+code: 0
+responseTime: 0
+lastUpdated: 2025-10-01T15:09:31.999Z
 startTime: 2022-03-30T17:22:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
