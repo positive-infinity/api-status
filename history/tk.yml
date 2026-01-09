@@ -1,7 +1,7 @@
 url: $TK_API_URL
-status: up
+status: degraded
 code: 200
-responseTime: 1686
-lastUpdated: 2026-01-09T23:00:00.843Z
+responseTime: 5821
+lastUpdated: 2026-01-09T23:59:35.817Z
 startTime: 2022-02-25T13:03:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
